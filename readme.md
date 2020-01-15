@@ -1,5 +1,5 @@
 <h1>Ensino de Microsoft SQL Server</h1> 
-<h2>Pasta 'Data'</h2> 
+<h2>Pasta 'data'</h2> 
 <h3>Contendo dados gratuitos utilizados no treinamento</h3>
 
 1. Dados de localidades do IBGE
