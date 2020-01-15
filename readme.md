@@ -1,6 +1,6 @@
-#Ensino de Microsoft SQL Server 
-##<h2>Pasta 'data'
-###Contendo dados gratuitos utilizados nos exemplos
+# Ensino de Microsoft SQL Server 
+## <h2>Pasta 'data'
+### Contendo dados gratuitos utilizados nos exemplos
 
 1. Dados de localidades do IBGE
 - Arquivo Power BI conectado ao FTP do IBGE (acesso gratuito)
