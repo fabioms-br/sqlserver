@@ -1,5 +1,5 @@
 # Ensino de Microsoft SQL Server 
-## <h2>Pasta 'data'
+## Pasta 'data'
 ### Contendo dados gratuitos utilizados nos exemplos
 
 1. Dados de localidades do IBGE
