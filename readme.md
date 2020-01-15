@@ -1,4 +1,4 @@
-<h1>Treinamento em Microsoft SQL Server</h1> 
+<h1>Ensino de Microsoft SQL Server</h1> 
 <h2>Pasta 'Data'</h2> 
 <h3>Contendo dados gratuitos utilizados no treinamento</h3>
 
