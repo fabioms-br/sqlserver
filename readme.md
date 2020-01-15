@@ -1,5 +1,5 @@
-<h1>Pasta 'Data'/h1> 
-<h2>Contendo dados gratuitos utilizados no treinamento<h2>
+<h1>Pasta 'Data'</h1> 
+<h2>Contendo dados gratuitos utilizados no treinamento</h2>
 
 Dados de localidades do IBGE
 - Arquivo Power BI conectado ao FTP do IBGE (acesso gratuito)
