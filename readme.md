@@ -1,5 +1,5 @@
 # Ensino de Microsoft SQL Server 
-## Pasta "[data](/sqlserver/data/)"
+## Pasta "[data](/data/)"
 
 ### Contendo dados gratuitos utilizados nos exemplos
 
@@ -9,7 +9,7 @@ ftp://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/localid
 - Arquivo em formato CSV 
 
 
-## Pasta "[/agrupar-linhas-em-coluna/](/sqlserver/agrupar-linhas-em-coluna/)"
+## Pasta "[/agrupar-linhas-em-coluna/](/agrupar-linhas-em-coluna/)"
 ### Scripts T-SQL do vídeo aula "Agrupar Linhas em Coluna | SQL Server"
 https://youtu.be/lx_VBIdrChY
 
