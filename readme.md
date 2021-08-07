@@ -1,5 +1,6 @@
 # Ensino de Microsoft SQL Server 
-## Pasta 'data'
+## Pasta "[data](/sqlserver/data)"
+
 ### Contendo dados gratuitos utilizados nos exemplos
 
 1. Dados de localidades do IBGE
