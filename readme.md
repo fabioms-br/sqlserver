@@ -19,3 +19,13 @@ Aprenda como colocar vários registros em apenas uma coluna separando os valores
 02-Passo-a-Passo.sql
 03-Passo-a-Passo-Resposta.sql
 
+
+## Pasta "[/diferenca-dias-entre-datas/](/diferenca-dias-entre-datas/)"
+### Scripts T-SQL do vídeo aula "Diferença de dias entre datas | SQL Server"
+https://youtu.be/F_UFJS0mvSQ
+
+Aprenda como contar a quantidade de dias entre duas datas de registros diferentes.
+
+01-Criar-tabela-inserir-dados.sql
+02-Passo-a-passo.sql
+
