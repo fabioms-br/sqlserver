@@ -20,12 +20,12 @@ Aprenda como colocar vários registros em apenas uma coluna separando os valores
 03-Passo-a-Passo-Resposta.sql
 
 
-## Pasta "[/diferenca-dias-entre-datas/](/diferenca-dias-entre-datas/)"
-### Scripts T-SQL do vídeo aula "Diferença de dias entre datas | SQL Server"
-https://youtu.be/F_UFJS0mvSQ
+## Pasta "[/inserir-ponto-geografico/](/inserir-ponto-geografico/)"
+### Scripts T-SQL do vídeo aula "Inserir Pontos Geográficos | SQL Server"
+https://youtu.be/SZCH9Xq63YU
 
-Aprenda como contar a quantidade de dias entre duas datas de registros diferentes.
+Aprenda como inserir pontos geográficos na sua tabela.
 
-01-Criar-tabela-inserir-dados.sql
-02-Passo-a-passo.sql
+01-Passo-a-passo.sql
+02-Inserir-registros.sql
 
