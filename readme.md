@@ -30,11 +30,11 @@ Aprenda como inserir pontos geográficos na sua tabela.
 02-Inserir-registros.sql
 
 
-## Pasta "[/ler-nota-fiscal-eletronica-xml/](/ler-nota-fiscal-eletronica-xml/)"
-### Scripts T-SQL do vídeo aula "Dicas para ler Nota Fiscal Eletrônica | Arquivo XML | SQL Server"
+## Pasta "[/preencher-valores-entre-datas/](/preencher-valores-entre-datas/)"
+### Scripts T-SQL do vídeo aula "Preencher valores entre registros de datas | SQL Server"
 https://youtu.be/fFpRTXniIvc
 
-Nesse vídeo iremos aprender algumas dicas para leitura de nota fiscal eletrônica utilizando OPENROWSET e arquivo XML.
+Nesse vídeo iremos aprender como criar uma tabela de datas para preenchimento de valores salariais vigentes no período.
 
-01-Passo-a-Passo-resposta.sql
+01-Passo-a-Passo-Resposta.sql
 
