@@ -38,3 +38,12 @@ Nesse vídeo iremos aprender como criar uma tabela de datas para preenchimento d
 
 01-Passo-a-Passo-Resposta.sql
 
+
+## Pasta "[/listar-arquivos-de-pasta/](/listar-arquivos-de-pasta/)"
+### Scripts T-SQL do vídeo aula "Listar Arquivos de uma pasta | SQL Server"
+https://youtu.be/K4KYVr_BalI
+
+Nesse vídeo iremos aprender como criar uma tabela de datas para preenchimento de valores salariais vigentes no período.
+
+01-Passo-a-Passo-Resposta.sql
+
