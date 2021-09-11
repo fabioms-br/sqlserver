@@ -43,7 +43,7 @@ Nesse vídeo iremos aprender como criar uma tabela de datas para preenchimento d
 ### Scripts T-SQL do vídeo aula "Listar Arquivos de uma pasta | SQL Server"
 https://youtu.be/K4KYVr_BalI
 
-Nesse vídeo iremos aprender como criar uma tabela de datas para preenchimento de valores salariais vigentes no período.
+Nesse vídeo iremos aprender a listar arquivos existentes no servidor SQL Server para atualização do seu conteúdo nos registros da tabelas.
 
 01-Passo-a-Passo-Resposta.sql
 
