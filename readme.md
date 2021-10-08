@@ -56,7 +56,7 @@ Nesse vídeo iremos aprender como criar a tabela dCalendário no servidor SQL Se
 
 01-Passo-a-Passo-Resposta.sql
 
-## Pasta "[/criar-tabela-dcalendario/](/criar-tabela-dcalendario/)"
+## Pasta "[/row-level-security/](/row-level-security/)"
 ### Scripts T-SQL do vídeo aula "Habilitar Row Level Security | SQL Server"
 https://youtu.be/PlObUhdF5TQ
 
