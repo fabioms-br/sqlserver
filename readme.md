@@ -47,3 +47,20 @@ Nesse vídeo iremos aprender a listar arquivos existentes no servidor SQL Server
 
 01-Passo-a-Passo-Resposta.sql
 
+
+## Pasta "[/criar-tabela-dcalendario/](/criar-tabela-dcalendario/)"
+### Scripts T-SQL do vídeo aula "Criar Tabela dCaledario | SQL Server"
+https://youtu.be/qLmkzNi2vNQ
+
+Nesse vídeo iremos aprender como criar a tabela dCalendário no servidor SQL Server para garantir a integridade de cálculo de inteligência temporal.
+
+01-Passo-a-Passo-Resposta.sql
+
+## Pasta "[/criar-tabela-dcalendario/](/criar-tabela-dcalendario/)"
+### Scripts T-SQL do vídeo aula "Habilitar Row Level Security | SQL Server"
+https://youtu.be/PlObUhdF5TQ
+
+Nesse vídeo iremos aprender como habilitar nível de segurança de linha (Row Level Security) em registros da tabela do SQL SERVER.
+
+01-Passo-a-Passo-Resposta.sql
+
