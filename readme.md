@@ -10,7 +10,7 @@ ftp://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/localid
 
 
 ## Pasta "[/agrupar-linhas-em-coluna/](/agrupar-linhas-em-coluna/)"
-### Scripts T-SQL do vídeo aula "Agrupar Linhas em Coluna | SQL Server"
+### Scripts T-SQL da vídeo aula "Agrupar Linhas em Coluna | SQL Server"
 https://youtu.be/lx_VBIdrChY
 
 Aprenda como colocar vários registros em apenas uma coluna separando os valores por vírgula.
@@ -21,7 +21,7 @@ Aprenda como colocar vários registros em apenas uma coluna separando os valores
 
 
 ## Pasta "[/inserir-ponto-geografico/](/inserir-ponto-geografico/)"
-### Scripts T-SQL do vídeo aula "Inserir Pontos Geográficos | SQL Server"
+### Scripts T-SQL da vídeo aula "Inserir Pontos Geográficos | SQL Server"
 https://youtu.be/SZCH9Xq63YU
 
 Aprenda como inserir pontos geográficos na sua tabela.
@@ -31,7 +31,7 @@ Aprenda como inserir pontos geográficos na sua tabela.
 
 
 ## Pasta "[/preencher-valores-entre-datas/](/preencher-valores-entre-datas/)"
-### Scripts T-SQL do vídeo aula "Preencher valores entre registros de datas | SQL Server"
+### Scripts T-SQL da vídeo aula "Preencher valores entre registros de datas | SQL Server"
 https://youtu.be/fFpRTXniIvc
 
 Nesse vídeo iremos aprender como criar uma tabela de datas para preenchimento de valores salariais vigentes no período.
@@ -40,7 +40,7 @@ Nesse vídeo iremos aprender como criar uma tabela de datas para preenchimento d
 
 
 ## Pasta "[/listar-arquivos-de-pasta/](/listar-arquivos-de-pasta/)"
-### Scripts T-SQL do vídeo aula "Listar Arquivos de uma pasta | SQL Server"
+### Scripts T-SQL da vídeo aula "Listar Arquivos de uma pasta | SQL Server"
 https://youtu.be/K4KYVr_BalI
 
 Nesse vídeo iremos aprender a listar arquivos existentes no servidor SQL Server para atualização do seu conteúdo nos registros da tabelas.
@@ -49,7 +49,7 @@ Nesse vídeo iremos aprender a listar arquivos existentes no servidor SQL Server
 
 
 ## Pasta "[/criar-tabela-dcalendario/](/criar-tabela-dcalendario/)"
-### Scripts T-SQL do vídeo aula "Criar Tabela dCaledario | SQL Server"
+### Scripts T-SQL da vídeo aula "Criar Tabela dCaledario | SQL Server"
 https://youtu.be/qLmkzNi2vNQ
 
 Nesse vídeo iremos aprender como criar a tabela dCalendário no servidor SQL Server para garantir a integridade de cálculo de inteligência temporal.
@@ -57,10 +57,19 @@ Nesse vídeo iremos aprender como criar a tabela dCalendário no servidor SQL Se
 01-Passo-a-Passo-Resposta.sql
 
 ## Pasta "[/row-level-security/](/row-level-security/)"
-### Scripts T-SQL do vídeo aula "Habilitar Row Level Security | SQL Server"
+### Scripts T-SQL da vídeo aula "Habilitar Row Level Security | SQL Server"
 https://youtu.be/PlObUhdF5TQ
 
 Nesse vídeo iremos aprender como habilitar nível de segurança de linha (Row Level Security) em registros da tabela do SQL SERVER.
+
+01-Passo-a-Passo-Resposta.sql
+
+
+## Pasta "[/obter-datas-todas-tabelas/](/obter-datas-todas-tabelas/)"
+### Scripts T-SQL da vídeo aula "Obter datas de todas as tabelas | SQL Server"
+https://youtu.be/MLherySIOQg
+
+Aprenderemos nesse vídeo como listar as datas mínimas e máximas de todas as tabelas existentes no seu banco de dados utilizando consulta SQL dinâmica.
 
 01-Passo-a-Passo-Resposta.sql
 
