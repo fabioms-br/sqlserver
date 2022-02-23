@@ -73,3 +73,11 @@ Aprenderemos nesse vídeo como listar as datas mínimas e máximas de todas as t
 
 01-Passo-a-Passo-Resposta.sql
 
+
+## Pasta "[/webscraping-python/](/webscraping-python/)"
+### Notebook T-SQL da vídeo aula "Web Scraping? Com Python na Consulta SQL Server"
+https://youtu.be/MLherySIOQg
+
+Iremos aprender como executar a técnica de garimpar dados na internet conhecida como Web Scraping utilizando o Python no SQL Server..
+
+01-Webscraping-Python.ipynb
