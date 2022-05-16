@@ -1,31 +1,35 @@
 
-/* 8. Definir variáveis */
-DECLARE ???;
-DECLARE ??? = '2021-01-01 00:00:00.000';
+/* 8. Definir variÃ¡veis */
+DECLARE @meses int = 6;
+DECLARE @data_nulo varchar(max) = '2021-01-01 00:00:00.000';
+
+--Not necessary
+DECLARE @BaseURL varchar(max) = 'https://ptax.bcb.gov.br/ptax_internet/';
+DECLARE @RelativeURL varchar(max) = 'consultaBoletim.do?method=gerarCSVFechamentoMoedaNoPeriodo&ChkMoeda=61&DATAINI=01/01/2021&DATAFIM=11/04/2022';
 
 
-WITH Moedas AS ( -- CTE Expressão de Tabela Comum
+WITH Moedas AS ( -- CTE ExpressÃ£o de Tabela Comum
 
-	/* 3. Definir Data Início Padrão se nulo */
+	/* 3. Definir Data InÃ­cio PadrÃ£o se nulo */
 	SELECT [Moeda_Sigla]
 		   ,[Download_Id]
 		   -- Definir data inicial se nulo 
 		   ,[data_inicio] = (CASE WHEN [data_inicio] IS NULL 
-							  	  THEN '2021-01-01 00:00:00.000'
-								  ELSE [data_inicio]
+							   THEN '2021-01-01 00:00:00.000'
+							   ELSE [data_inicio] 
 							 END)	
 	FROM( -- Subconsulta
 	
-		/* 2. Definir data de início da última atualização */
+		/* 2. Definir data de inÃ­cio da Ãºltima atualizaÃ§Ã£o */
 		SELECT [Moeda_Sigla]
 			   ,[Download_Id] 
-			   ,[data_inicio] = [ult_data] -- Obter Data Início
+			   ,[data_inicio] = t2.[ult_data] -- Obter Data InÃ­cio
 		FROM [DS_BCB_MOEDA] t1
 
 		LEFT JOIN ( 
 		
-			/* 1. Agrupar pela data máxima */
-			SELECT MAX([Data])+1 as [ult_data] -- Obter última data atualizada
+			/* 1. Agrupar pela data mÃ¡xima */
+			SELECT MAX([Data])+1 as [ult_data] -- Obter Ãºltima data atualizada
 				   ,[Moeda_Id] 
 			FROM [API_BCB_COTACOES]  
 			GROUP BY [Moeda_Id] 		
@@ -33,64 +37,69 @@ WITH Moedas AS ( -- CTE Expressão de Tabela Comum
 		) AS t2 ON t2.[Moeda_Id] = t1.[Moeda_Id]
 
 		-- Remover Moeda Real Brasil
-		WHERE [Download_Id] <> ''
+		WHERE [Download_Id] <> '' 
 
 
 	) AS RS
 
-), -- CTE
+),
 Data_Hierarquia AS ( 
 
-	/* 4. Separar Datas em período de tempo (6 meses) */
-	-- Nível Pai
+	/* 4. Separar Datas em perÃ­odo de tempo (6 meses) */
+	-- NÃ­vel Pai
 	SELECT [Moeda_Sigla]
 		   , [Download_Id]
 		   , [data_inicio] AS [data] -- renomear coluna
-		   , 1 AS [nivel] -- Exibir nível da hiearquia
+		   , 1 AS [level] -- Exibir nÃ­vel da hiearquia
 	FROM Moedas
 		
 		UNION ALL -- Obter todos os registros
 
-	-- Nível Filho
+	-- NÃ­vel Filho
 	SELECT  Moedas.[Moeda_Sigla]
 		   , Moedas.[Download_Id], 
 		   DATEADD(MONTH, 6, [data]), -- Adicionar 6 meses a data encontrada
-		   [nivel] + 1 -- Exibir nível da hierarquia
+		   [level] + 1 -- Exibir nÃ­vel da hiearquia
 	FROM  Data_Hierarquia, Moedas -- Selecionar as duas tabelas
 	WHERE [data] < GETDATE() AND -- Obter Data Atual
 		  Moedas.[Moeda_Sigla] = Data_Hierarquia.[Moeda_Sigla] 
 
-), DataIntervalo AS ( -- CTE
+), DataIntervalo AS (
 
 	/* 5. Obter Intervalo de Datas */	
 	SELECT [Moeda_Sigla]
 	       ,[Download_Id] 
 		   ,[data_inicio]
 		   -- Limitar da Fim Condicionalmente
-		   ,(???) AS [data_fim]
+		   ,(CASE WHEN [data_fim] > [data_hoje] 
+		          THEN [data_hoje]
+				  ELSE [data_fim]         
+		    END) AS [data_fim]
 	FROM (
-		-- Definir 6 meses da data início 
+		-- Definir 6 meses da data inÃ­cio 
 		SELECT [Moeda_Sigla]
 			   , [Download_Id]
 			   , [data] as [data_inicio]
-			   , DATEADD(MONTH, 6, [data]) as [data_fim] -- Adicionar 6 meses a data encontrada
+			   , DATEADD(MONTH, 6, [data])-1 as [data_fim] -- Adicionar 6 meses a data encontrada
 			   , GETDATE() AS [data_hoje] -- Obter Data Atual
 		FROM   Data_Hierarquia 
-		WHERE [data] < GETDATE() -- Filtrar data início maior que a data atual
+		WHERE [data] < GETDATE()
 	) AS D
 
 ) 
 /* 7. Obter URL relativa */
---???
+SELECT [Moeda_Sigla]
+	   ,[RelativeURL] = 'consultaBoletim.do?method=gerarCSVFechamentoMoedaNoPeriodo&'+
+				    'ChkMoeda='+[Download_Id]+'&DATAINI='+[data_inicio]+'&DATAFIM='+[data_fim]
 
---??? -- Subconsulta
+FROM ( -- Subconsulta
 	
 	/* 6. Converter Tipo de Dados */
 	SELECT [Moeda_Sigla]
 		   ,[Download_Id]
-		   ,???(varchar(20),[data_inicio],???) AS [data_inicio] -- Formato DD/MM/YYYY
-		   ,???(varchar(20),[data_fim],???) AS [data_fim]
+		   ,CONVERT(varchar(20),[data_inicio],103) AS [data_inicio] 
+		   ,CONVERT(varchar(20),[data_fim],103) AS [data_fim]
 	FROM DataIntervalo 
 
---???
+) AS RF
 ORDER BY Moeda_Sigla
