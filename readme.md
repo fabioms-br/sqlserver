@@ -8,6 +8,10 @@
 ftp://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/localidades/Google_KML/BR_Localidades_2010_v1.kml
 - Arquivo em formato CSV 
 
+## Pasta "[/03-Azure-SQL-Database-Dax-Networkdays-Function/](/03-Azure-SQL-Database-Dax-Networkdays-Function/)"
+### Scripts da vídeo aula "Obter Função NETWORKDAYS no DAX e Azure SQL"
+https://youtu.be/ZfN00oHh08s
+
 
 ## Pasta "[/agrupar-linhas-em-coluna/](/agrupar-linhas-em-coluna/)"
 ### Scripts T-SQL da vídeo aula "Agrupar Linhas em Coluna | SQL Server"
