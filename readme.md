@@ -5,6 +5,8 @@
 😉 Gostou do conteúdo? Inscreva-se também no canal: [http://www.fabioms.com.br/?url=youtube-subscribe](http://www.fabioms.com.br/?url=youtube-subscribe)
 
 > **Youtube playlist**: [https://www.youtube.com/playlist?list=PL3CylihEP9UTvZ3MfAYpsyujpGtxYj3Gb](https://www.youtube.com/playlist?list=PL3CylihEP9UTvZ3MfAYpsyujpGtxYj3Gb)  
+
+
 ## [1. Contar datas de registros diferentes no SQL Server](/sql-server-contar-dias-entre-datas.md)
 
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-contar-dias-entre-datas](http://www.fabioms.com.br/?url=sql-server-contar-dias-entre-datas)  
