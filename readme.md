@@ -183,6 +183,7 @@ Apresentamos nesse vídeo como contar a quantidade de dias úteis existentes ent
 Apresentamos nesse vídeo como instalar um ambiente de análise de dados utilizando o banco de dados SQL Server com os recursos Analysis Services e Integration Services, como também, as ferramentas SQL Server Management Studio e o Visual Studio com as extensões para criar projetos nesse ambiente.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-instalar-ambiente-ssas-ssis-datatools](http://www.fabioms.com.br/?url=sql-server-instalar-ambiente-ssas-ssis-datatools)  
 
+
 ✅ SQL Server 2019
 [https://www.microsoft.com/en-us/sql-server/sql-server-downloads](https://www.microsoft.com/en-us/sql-server/sql-server-downloads?WT.mc_id=DP-MVP-500484)
 
