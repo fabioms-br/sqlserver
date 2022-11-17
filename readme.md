@@ -1,5 +1,5 @@
 <p align="center">
-<img height="67" width="1618" src="/_assets/banner-blue-top.png" alt="">
+<img height="67" width="100%" src="/_assets/banner-blue-top.png" alt="">
 </p>
 
 # SQL Server  
