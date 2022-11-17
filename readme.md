@@ -1,5 +1,5 @@
 <p align="center">
-![](/_assets/banner-blue-top.png)
+<img src="/_assets/banner-blue-top.png" alt="">
 </p>
 
 # SQL Server  
