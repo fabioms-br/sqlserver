@@ -1,4 +1,4 @@
-![](/_assets/blue-top.png)
+![](/_assets/banner-blue-top.png)
 
 # SQL Server  
 ### **Aprender scripts de consulta e manipulação de dados no SQL Server**  
