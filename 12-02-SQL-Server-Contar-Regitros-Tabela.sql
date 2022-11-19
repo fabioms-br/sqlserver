@@ -1,0 +1,8 @@
+SELECT 
+c.TABLE_NAME as 'Nome da Tabela', 
+c.COLUMN_NAME as 'Noma da Coluna', c.DATA_TYPE as 'Tipo de Dados', 
+c.CHARACTER_MAXIMUM_LENGTH as 'Tamanho'
+FROM INFORMATION_SCHEMA.COLUMNS c
+
+WHERE c.TABLE_NAME = 'SalesOrderDetail'
+ORDER BY c.TABLE_NAME, c.ORDINAL_POSITION
