@@ -1,7 +1,3 @@
-<p align="center">
-<img src="/_assets/banner-blue-top.png" alt="">
-</p>
-
 # SQL Server  
 ### **Aprender scripts de consulta e manipulação de dados no SQL Server**  
 **Keywords:** Data Platform, SQL Server, Microsoft SQL Server, SQL Server container, SQL Linux containers, Server container images, Run SQL, about SQL Server, deliver SQL Server  
