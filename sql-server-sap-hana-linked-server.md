@@ -5,19 +5,22 @@
 Apresentamos nesse vídeo como conectar o banco de dados SAP Hana diretamente associado ao SQL Server utilizando a funcionalidade Linked Server (Servidor Vinculado).
 
 Iremos conhecer:
-- Como instalar driver ODBC do SAP HANA (ODBC, HANA CLIENT);
+🔹Como instalar driver ODBC do SAP HANA (ODBC, HANA CLIENT);  
 Download em: https://tools.hana.ondemand.com/#hanatools
-- Configurar fonte de dados ODBC (ODBC Data Source Administrator. System DSN);
-- Criar Servidor Vinculado no modo gráfico (SSMS, LINKED SERVER, PROVIDERS);
-- Visualizar tabelas do banco de dados SAP Hana (SAP HANA DATABASE EXPLORER, OPEN DATA);
-- Consultar banco de dados SAP Hana no SQL Server (SELECT, OPENQUERY);
-- Excluir Servidor Vinculado utilizando código SQL (sp_dropserver, droplogins);
-- Criar Servidor Vinculado utilizando código SQL (sp_addlinkedserver, PROVIDER);
-- Adicionar usuário e senha de acesso ao Servidor Vinculado (sp_addlinkedsrvlogin);
-- Criar exibição com instrução de consulta dos dados do SAP Hana (CREATE VIEW).
+🔹Configurar fonte de dados ODBC (ODBC Data Source Administrator. System DSN);  
+🔹Criar Servidor Vinculado no modo gráfico (SSMS, LINKED SERVER, PROVIDERS);  
+🔹Visualizar tabelas do banco de dados SAP Hana (SAP HANA DATABASE EXPLORER, OPEN DATA);  
+🔹Consultar banco de dados SAP Hana no SQL Server (SELECT, OPENQUERY);  
+🔹Excluir Servidor Vinculado utilizando código SQL (sp_dropserver, droplogins);  
+🔹Criar Servidor Vinculado utilizando código SQL (sp_addlinkedserver, PROVIDER);  
+🔹Adicionar usuário e senha de acesso ao Servidor Vinculado (sp_addlinkedsrvlogin);  
+🔹Criar exibição com instrução de consulta dos dados do SAP Hana (CREATE VIEW).  
 
-✅ Acesse o vídeo no link abaixo:
+▶️ Acesse o vídeo no link abaixo:
 http://www.fabioms.com.br/?url=sql-server-sap-hana-linked-server
+
+📁 Arquivos disponíveis no GitHub:
+http://www.fabioms.com.br/?url=github
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
 http://www.fabioms.com.br/?url=youtube-subscribe

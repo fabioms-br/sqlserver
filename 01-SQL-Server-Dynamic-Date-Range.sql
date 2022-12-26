@@ -24,14 +24,14 @@ WITH Moedas AS ( -- CTE Expressão de Tabela Comum
 		SELECT [Moeda_Sigla]
 			   ,[Download_Id] 
 			   ,[data_inicio] = t2.[ult_data] -- Obter Data Início
-		FROM [DS_BCB_MOEDA] t1
+		FROM [MOEDA] t1
 
 		LEFT JOIN ( 
 		
 			/* 1. Agrupar pela data máxima */
 			SELECT MAX([Data])+1 as [ult_data] -- Obter última data atualizada
 				   ,[Moeda_Id] 
-			FROM [API_BCB_COTACOES]  
+			FROM [MOEDA_COTACOES]  
 			GROUP BY [Moeda_Id] 		
 
 		) AS t2 ON t2.[Moeda_Id] = t1.[Moeda_Id]
@@ -88,18 +88,11 @@ Data_Hierarquia AS (
 
 ) 
 /* 7. Obter URL relativa */
-SELECT [Moeda_Sigla]
-	   ,[RelativeURL] = 'consultaBoletim.do?method=gerarCSVFechamentoMoedaNoPeriodo&'+
-				    'ChkMoeda='+[Download_Id]+'&DATAINI='+[data_inicio]+'&DATAFIM='+[data_fim]
 
-FROM ( -- Subconsulta
 	
-	/* 6. Converter Tipo de Dados */
-	SELECT [Moeda_Sigla]
-		   ,[Download_Id]
-		   ,CONVERT(varchar(20),[data_inicio],103) AS [data_inicio] 
-		   ,CONVERT(varchar(20),[data_fim],103) AS [data_fim]
-	FROM DataIntervalo 
-
-) AS RF
+SELECT [Moeda_Sigla]
+		,[Download_Id]
+		,CONVERT(varchar(20),[data_inicio],103) AS [data_inicio] 
+		,CONVERT(varchar(20),[data_fim],103) AS [data_fim]
+FROM DataIntervalo 
 ORDER BY Moeda_Sigla
