@@ -19,7 +19,7 @@
 
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-migrar-msaccess](http://www.fabioms.com.br/?url=sql-server-migrar-msaccess)  
 
-## [4. Criar Tabela sem Código no SQL Server](/sql-server-criar-tabela-sem-codigo.md)
+## [4. Como Criar Tabela sem Código no SQL Server](/sql-server-criar-tabela-sem-codigo.md)
 Apresentamos nesse vídeo como criar facilmente uma tabela SQL Server sem utilizar código na ferramenta SQL Server Management Studio.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-criar-tabela-sem-codigo](http://www.fabioms.com.br/?url=sql-server-criar-tabela-sem-codigo)  
 
@@ -73,11 +73,11 @@ Pasta "[/preencher-valores-entre-datas/](/preencher-valores-entre-datas/)"
 
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-listar-arquivos-pasta](http://www.fabioms.com.br/?url=sql-server-listar-arquivos-pasta)  
 Pasta "[/listar-arquivos-de-pasta/](/listar-arquivos-de-pasta/)"
-## [17. Criar Tabela Calendário no SQL Server](/sql-server-criar-tabela-calendario.md)
+## [17. Como Criar Tabela Calendário no SQL Server](/sql-server-criar-tabela-calendario.md)
 Apresentamos nesse vídeo como criar uma tabela Calendário no SQL Server para garantir a integridade de cálculo de inteligência temporal do seus relatórios, pois disponibiliza todos os dias do período entre os registros existentes no banco de dados.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-criar-tabela-calendario](http://www.fabioms.com.br/?url=sql-server-criar-tabela-calendario)  
 Pasta "[/criar-tabela-dcalendario/](/criar-tabela-dcalendario/)"
-## [18. 2 maneiras de conectar arquivo excel no servidor | SQL Server](/sql-server-conectar-arquivo-excel.md)
+## [18. Como Conectar Planilha Excel no SQL Server](/sql-server-conectar-arquivo-excel.md)
 Apresentamos nesse vídeo como conectar um arquivo excel no servidor SQL Server utilizando a funcionalidade Linked Server para consultar e maniplular os dados facilmente. 
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-conectar-arquivo-excel](http://www.fabioms.com.br/?url=sql-server-conectar-arquivo-excel)  
 
@@ -106,7 +106,7 @@ Apresentamos nesse vídeo como converter valores de colunas em linhas de dados e
 
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-calcular-distancia-ponto-geografico](http://www.fabioms.com.br/?url=sql-server-calcular-distancia-ponto-geografico)  
 
-## [25. Aprender SQL no Power BI com Consulta Nativa | SQL Server](/sql-server-aprenda-sql-no-power-bi.md)
+## [25. Como Aprender SQL no Power BI com Consulta Nativa e SQL Server](/sql-server-aprenda-sql-no-power-bi.md)
 Apresentamos como identificar o códido SQL utilizando a consulta nativa do Microsoft Power BI e a ferramenta SQL Server Profiler.
 
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-aprenda-sql-no-power-bi](http://www.fabioms.com.br/?url=sql-server-aprenda-sql-no-power-bi)  
@@ -130,7 +130,7 @@ Nesse vídeo apresentamos como agrupar os dados por intervalo e por variável ca
 Podemos utilizar o banco de dado SQL Server para calcular média móvel e avaliar cotações no mercado de ações utilizando a técnica chamada cruzamento de médias.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-calcular-media-movel](http://www.fabioms.com.br/?url=sql-server-calcular-media-movel)  
 
-## [30. Identificar os Outliers dos dados no SQL Server](/sql-server-identificar-outlliers.md)
+## [30. Como Identificar os Outliers dos dados no SQL Server](/sql-server-identificar-outlliers.md)
 Apresentamos nesse vídeo com reduzir o impacto dos valores extremos em uma tendência central identificando os outliers dos dados utilizando o SQL Server.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-identificar-outlliers](http://www.fabioms.com.br/?url=sql-server-identificar-outlliers)  
 

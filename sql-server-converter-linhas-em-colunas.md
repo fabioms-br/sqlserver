@@ -5,16 +5,24 @@
 Apresentamos nesse vídeo como converter valores de colunas em linhas de dados existentes no arquivo excel utilizando o SQL Server. 
 
 Iremos conhecer as técnicas:
-- Ler arquivo excel (SELECT, OPENROWSET);
-- Expressão de Tabela Comum (CTE);
-- Converter Valores de Colunas em Linhas (UNPIVOT, FOR, IN);
-- Inserir resultado em tabela auto-criada (INTO, FROM);
-- Converter Valores de Linhas em Colunas (PIVOT, SUM, FOR, IN)
+🔹Ler arquivo excel (SELECT, OPENROWSET);  
+🔹Expressão de Tabela Comum (CTE);  
+🔹Converter Valores de Colunas em Linhas (UNPIVOT, FOR, IN);  
+🔹Inserir resultado em tabela auto-criada (INTO, FROM);  
+🔹Converter Valores de Linhas em Colunas (PIVOT, SUM, FOR, IN).  
 
-✅ Acesse o vídeo no link abaixo:
+▶️ Acesse o vídeo no link abaixo:
 http://www.fabioms.com.br/?url=sql-server-converter-linhas-em-colunas
+
+📁 Arquivos disponíveis no GitHub, não esquece de seguir:
+http://www.fabioms.com.br/?url=github
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
 http://www.fabioms.com.br/?url=youtube-subscribe 
+
+🎁 Banco de Dados para Estudo SQL:
+Se você quer uma base para estudar liguagem #SQL ou #BusinessIntelligence, elaborar seu curso ou treinamento, aqui você encontrará material. 
+Contribua e cite o projeto para fortalecê-lo!
+http://www.fabioms.com.br/?url=github-estudados
 
 #microsoft #dataplatform #sqlserver #sql #excel #pivot #mvp #dicadofabinho

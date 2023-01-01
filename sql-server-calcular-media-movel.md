@@ -4,21 +4,29 @@
 
 Podemos utilizar o banco de dado SQL Server para calcular média móvel e avaliar cotações no mercado de ações utilizando a técnica chamada cruzamento de médias.
 
-Iremos conhecer:
-- Usar o notebook do Azure Data Studio para executar código T-SQL (KERNEL, ATTACH TO, DATABASE);
-- Consultar registros da tabela (SELECT, TABLE);
-- Calcular valores agregados (AVG);
-- Utilizar funções de janela (OVER, PARTITION BY, ORDER BY);
-- Definir períodos móveis da função de janela (ROWS BETWEEN, PRECEDING, CURRENT ROW);
-- Criar exibição (CREATE VIEW);
-- Consumir exibição do SQL Server no Power BI (GET DATA, SQL SERVER);
-- Configurar gráfico de linha no Power BI (VALUES, SECONDARY VALUES);
-- Identificar os eventos Golden Cross/DeathCross utilizados pelos especialistas da bolsa de valores (POWER BI).
+Iremos conhecer as técnicas:
+🔹Usar o notebook do Azure Data Studio para executar código T-SQL (KERNEL, ATTACH TO, DATABASE);
+🔹Consultar registros da tabela (SELECT, TABLE);
+🔹Calcular valores agregados (AVG);
+🔹Utilizar funções de janela (OVER, PARTITION BY, ORDER BY);
+🔹Definir períodos móveis da função de janela (ROWS BETWEEN, PRECEDING, CURRENT ROW);
+🔹Criar exibição (CREATE VIEW);
+🔹Consumir exibição do SQL Server no Power BI (GET DATA, SQL SERVER);
+🔹Configurar gráfico de linha no Power BI (VALUES, SECONDARY VALUES);
+🔹Identificar os eventos Golden Cross/DeathCross utilizados pelos especialistas da bolsa de valores (POWER BI).
 
-✅ Acesse o vídeo no link abaixo:
+▶️Acesse o vídeo no link abaixo:
 http://www.fabioms.com.br/?url=sql-server-calcular-media-movel
+
+📁 Arquivos disponíveis no GitHub, não esquece de seguir:
+http://www.fabioms.com.br/?url=github
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
 http://www.fabioms.com.br/?url=youtube-subscribe
+
+🎁 Banco de Dados para Estudo SQL:
+Se você quer uma base para estudar liguagem #SQL ou #BusinessIntelligence, elaborar seu curso ou treinamento, aqui você encontrará material. 
+Contribua e cite o projeto para fortalecê-lo!
+http://www.fabioms.com.br/?url=github-estudados
 
 #microsoft #dataplatform #dataanalyst #sqlserver #stockmarket #database #sql #data  #powerbi #DicaDoFabinho

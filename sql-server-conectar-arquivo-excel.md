@@ -1,20 +1,29 @@
-## 2 maneiras de conectar arquivo excel no servidor | SQL Server
+## Como Conectar Planilha Excel no SQL Server
 
-<img src="https://fabioms.com.br/uploads/youtube/hWT6IPe6dZw.png" alt="2 maneiras de conectar arquivo excel no servidor | SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br/uploads/youtube/hWT6IPe6dZw.png" alt="Como Conectar Planilha Excel no SQL Server" title="SQL Server" width="320"/>
 
-Apresentamos nesse vídeo como conectar um arquivo excel no servidor SQL Server utilizando a funcionalidade Linked Server para consultar e maniplular os dados facilmente. 
+Aprenderemos nesse vídeo como se conectar a um arquivo excel no servidor SQL Server para consultar e maniplular os dados. 
 
-Iremos conhecer:
-- Habilitar funcionalidades avançadas de acesso ao Driver do Excel (ACE.OLEDB);
-- Consultar os registros do arquivo excel (OPENROWSET);
-- Executar função do sistema (EXEC);
-- Criar tabela automaticamente ao inserir os dados (INSERT INTO);
-- Criar Servidor Vinculado ao arquivo excel (LINKED SERVER);
+Iremos conhecer as técnicas:
+🔹Habilitar funcionalidades avançadas de acesso ao Driver do Excel (ACE.OLEDB);  
+🔹Consulta aos dados utilizando OPENROWSET;
+🔹Uso da função EXEC;  
+🔹Inserir dados em nova tabela automaticamente (INSERT INTO);  
+🔹Criar servidor associado para o arquivo excel (LINKED SERVER);  
+🔹Configurar login no linked server.
 
-✅ Acesse o vídeo no link abaixo:
+▶️ Acesse o vídeo no link abaixo:
 http://www.fabioms.com.br/?url=sql-server-conectar-arquivo-excel
 
-😉 Gostou do conteúdo? Inscreva-se também no canal:
-http://www.fabioms.com.br/?url=youtube-subscribe
+📁 Arquivos disponíveis no GitHub, me segue por lá:
+http://www.fabioms.com.br/?url=github
 
-#microsoft #sqlserver #linkedservice #DicaDoFabinho
+😉 Gostou do conteúdo? Inscreva-se também no canal:
+http://www.fabioms.com.br/?url=youtube-subscribe 
+
+🎁 Banco de Dados para Estudo SQL:
+Se você quer uma base para estudar liguagem #SQL ou #BusinessIntelligence, elaborar seu curso ou treinamento, aqui você encontrará material. 
+Contribua e cite o projeto para fortalecê-lo!
+http://www.fabioms.com.br/?url=github-estudados
+
+#microsoft #dataplatform #sqlserver #linkedservice #DicaDoFabinho

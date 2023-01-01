@@ -1,6 +1,6 @@
-## Aprender SQL no Power BI com Consulta Nativa | SQL Server
+## Como Aprender SQL no Power BI com Consulta Nativa e SQL Server
 
-<img src="https://fabioms.com.br/uploads/youtube/5cxU6aeR8yk.png" alt="Aprender SQL no Power BI com Consulta Nativa | SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br/uploads/youtube/5cxU6aeR8yk.png" alt="Como Aprender SQL no Power BI com Consulta Nativa e SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos como identificar o código SQL utilizando a consulta nativa do Microsoft Power BI e a ferramenta SQL Server Profiler.
 
@@ -11,13 +11,18 @@ Iremos conhecer as técnicas:
 🔹Identificar as consultas utilizando SQL Server Profiler (QUERY)  
 🔹Aumentar performance do relatório desabilitando os filtros nas interações dos visuais Power BI (QUERY REDUCTION)  
 
-✅ Acesse o vídeo no link abaixo:
+▶️ Acesse o vídeo no link abaixo:
 http://www.fabioms.com.br/?url=sql-server-aprenda-sql-no-power-bi
+
+📁 Arquivos disponíveis no GitHub, me segue por lá:
+http://www.fabioms.com.br/?url=github
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
 http://www.fabioms.com.br/?url=youtube-subscribe 
 
-Acesse o vídeo no link abaixo:
-https://youtu.be/5cxU6aeR8yk
+🎁 Banco de Dados para Estudo SQL:
+Se você quer uma base para estudar liguagem #SQL ou #BusinessIntelligence, elaborar seu curso ou treinamento, aqui você encontrará material. 
+Contribua e cite o projeto para fortalecê-lo!
+http://www.fabioms.com.br/?url=github-estudados
 
 #microsoft  #dataplatform #powerbi #consultanativa #queryfolding #sqlserver #profiler #sql #dicadofabinho

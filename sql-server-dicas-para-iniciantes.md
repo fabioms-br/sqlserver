@@ -4,16 +4,21 @@
 
 Apresentamos 5 dicas importantes para quem está iniciando no desenvolvimendo de consultas no SQL Server para obter os dados com rapidez e performance esperada.
 
-- Selecione apenas as colunas desejadas da tabelas;
-- Selecione apenas os registros desejados da tabela;
-- Agregar valores por agrupamento de coluna;
-- Ordenar os registros;
-- Renomear colunas e como usá-las.
+🔹Selecione apenas as colunas desejadas da tabelas (SELECT, IDENTIFIERS, ALL COLUMNS);
+🔹Selecione apenas os registros desejados da tabela (WHERE, FILTER);
+🔹Agregar valores por agrupamento de coluna (GROUP BY);
+🔹Ordenar os registros (ORDER BY);
+🔹Renomear colunas e como usá-las (ALIAS).
 
-✅ Acesse o vídeo no link abaixo:
+▶️ Acesse o vídeo no link abaixo:
 http://www.fabioms.com.br/?url=sql-server-dicas-para-iniciantes
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
 http://www.fabioms.com.br/?url=youtube-subscribe
+
+🎁 Banco de Dados para Estudo SQL:
+Se você quer uma base para estudar liguagem #SQL ou #BusinessIntelligence, elaborar seu curso ou treinamento, aqui você encontrará material. 
+Contribua e cite o projeto para fortalecê-lo!
+http://www.fabioms.com.br/?url=github-estudados
 
 #microsoft #dataplatform #dataanalytics #dataanalyst #sql #server #database #dicadofabinho
