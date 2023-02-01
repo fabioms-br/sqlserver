@@ -23,6 +23,5 @@ http://www.fabioms.com.br/?url=youtube-subscribe
 Se você quer uma base para estudar liguagem #SQL ou #BusinessIntelligence, elaborar seu curso ou treinamento, aqui você encontrará material. 
 Contribua e cite o projeto para fortalecê-lo!
 http://www.fabioms.com.br/?url=github-estudados
-#microsft #dataplatform #azure #synapseanalytics #apache #spark  #python #DicaDoFabinho
 
 #microsoft  #dataplatform #sqlserver #sql #dicadofabinho

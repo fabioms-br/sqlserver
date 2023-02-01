@@ -21,6 +21,8 @@ Iremos conhecer as técnicas:
 🔹Instalar suporte aos arquivos de formato PDF (ADOBE PDF FILTER);
 🔹Pesquisar por arquivos que contém palavras selecionadas (WHERE, CONTAINS, AND);
 
+👍Deixe seu Like para valorizar o conteúdo.
+
 ▶️ Acesse o vídeo no link abaixo:
 http://www.fabioms.com.br/?url=sql-server-pesquisa-tabela-arquivos
 
