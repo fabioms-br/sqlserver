@@ -13,12 +13,12 @@ Iremos conhecer as técnicas:
 🔹Filtrar registros por conjunto de valores (WHERE, NOT IN).  
 
 ▶️ Acesse o vídeo no link abaixo:
-http://www.fabioms.com.br/?url=sql-server-contar-obter-dias-uteis
+https://www.fabioms.com.br/?url=sql-server-contar-obter-dias-uteis
 
 📁 Arquivos disponíveis no GitHub:
-http://www.fabioms.com.br/?url=github
+https://www.fabioms.com.br/?url=github
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
-http://www.fabioms.com.br/?url=youtube-subscribe 
+https://www.fabioms.com.br/?url=youtube-subscribe 
 
 #microsoft #dataplataform #datamanagement #sqlserver #sql #DicaDoFabinho 

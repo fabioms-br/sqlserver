@@ -16,10 +16,10 @@ Iremos conhecer as técnicas:
 🔹Criar projeto e publicar objetos do Analysis Services e do Integration Services utilizando o Visual Studio.  
 
 ▶️ Acesse o vídeo no link abaixo:
-http://www.fabioms.com.br/?url=sql-server-instalar-ambiente-ssas-ssis-datatools
+https://www.fabioms.com.br/?url=sql-server-instalar-ambiente-ssas-ssis-datatools
 
 📁 Arquivos disponíveis no GitHub:
-http://www.fabioms.com.br/?url=github
+https://www.fabioms.com.br/?url=github
 
 ✅ SQL Server 2019
 https://www.microsoft.com/en-us/sql-server/sql-server-downloads?WT.mc_id=DP-MVP-500484
@@ -31,6 +31,6 @@ https://apps.microsoft.com/store/detail/visual-studio-community-2019/XP8CDJNZKFM
 https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-ver16&WT.mc_id=DP-MVP-500484
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
-http://www.fabioms.com.br/?url=youtube-subscribe
+https://www.fabioms.com.br/?url=youtube-subscribe
 
 #microsoft #dataplatform #mvp #sqlserver #sql #dataanalytics #dicadoFabinho 

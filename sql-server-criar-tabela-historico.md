@@ -20,13 +20,13 @@ Iremos conhece as técnicas:
 🔹Excluir todos os registros sem WHERE (DELETE);  
 
 ▶️ Acesse o vídeo no link abaixo:
-http://www.fabioms.com.br/?url=sql-server-criar-tabela-historico
+https://www.fabioms.com.br/?url=sql-server-criar-tabela-historico
 
 📁 Arquivos disponíveis no GitHub:
-http://www.fabioms.com.br/?url=github
+https://www.fabioms.com.br/?url=github
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
-http://www.fabioms.com.br/?url=youtube-subscribe 
+https://www.fabioms.com.br/?url=youtube-subscribe 
 
 #microsoft #dataplatform #sqlserver #database #historytable #sql #dataanalysis #DicadoFabinho
 

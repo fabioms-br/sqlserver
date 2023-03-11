@@ -14,12 +14,12 @@ Iremos conhecer as técnicas:
 🔹Filtrar registros (WHERE, CONDITIONAL);  
 
 ✅ Acesse o vídeo no link abaixo:
-http://www.fabioms.com.br/?url=sql-server-ferias-conflito-entre-datas
+https://www.fabioms.com.br/?url=sql-server-ferias-conflito-entre-datas
 
 📁 Arquivos disponíveis no GitHub:
-http://www.fabioms.com.br/?url=github
+https://www.fabioms.com.br/?url=github
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
-http://www.fabioms.com.br/?url=youtube-subscribe
+https://www.fabioms.com.br/?url=youtube-subscribe
 
 #microsoft #dataplatform #sqlserver #dataanalysis #sql #data #dicadofabinho

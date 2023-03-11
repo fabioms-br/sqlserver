@@ -14,10 +14,10 @@ Conheceremos as técnicas:
 - Combinar valores de tabelas (JOIN);
 
 ✅ Acesse o vídeo no link abaixo:
-http://www.fabioms.com.br/?url=sql-server-preencher-valores-entre-datas
+https://www.fabioms.com.br/?url=sql-server-preencher-valores-entre-datas
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
-http://www.fabioms.com.br/?url=youtube-subscribe 
+https://www.fabioms.com.br/?url=youtube-subscribe 
 
 #microsoft #dataplataform #datamanagement #sqlserver #sql #DicaDoFabinho
 

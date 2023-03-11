@@ -81,7 +81,7 @@ Pasta "[/criar-tabela-dcalendario/](/criar-tabela-dcalendario/)"
 Apresentamos nesse vídeo como conectar um arquivo excel no servidor SQL Server utilizando a funcionalidade Linked Server para consultar e maniplular os dados facilmente. 
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-conectar-arquivo-excel](http://www.fabioms.com.br/?url=sql-server-conectar-arquivo-excel)  
 
-## [19. Calcular Total Acumulado no SQL Server](/sql-server-calcular-total-acumulado.md)
+## [19. Como Calcular Total Acumulado no SQL Server](/sql-server-calcular-total-acumulado.md)
 Nesse vídeo apresentamos como calcular o valor total acumulado de um determinado período utilizando funções de janela no SQL Server.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-calcular-total-acumulado](http://www.fabioms.com.br/?url=sql-server-calcular-total-acumulado)  
 
@@ -146,7 +146,7 @@ Apresentamos nesse vídeo como separar o texto de uma coluna em várias colunas 
 Apresentamos nesse vídeo como criar uma tabela de histórico no SQL Server para controlar automaticamente as alterações executadas nos registros dessa tabela.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-criar-tabela-historico](http://www.fabioms.com.br/?url=sql-server-criar-tabela-historico)  
 
-## [34. Comparar Colunas de Tabelas no SQL Server](/sql-server-comparar-colunas-tabelas.md)
+## [34. Como Comparar Colunas de Tabelas no SQL Server](/sql-server-comparar-colunas-tabelas.md)
 Apresentamos nesse vídeo como comparar a estrutura das tabelas para identificar as diferenças entre as colunas, se as mesmas existem ou se repetem cada tabela.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-comparar-colunas-tabelas](http://www.fabioms.com.br/?url=sql-server-comparar-colunas-tabelas)  
 
@@ -154,7 +154,7 @@ Apresentamos nesse vídeo como comparar a estrutura das tabelas para identificar
 Apresentamos nesse vídeo como gerar intervalo de datas dinâmicas utilizando a última data de atualização dos dados da tabela de cotações de moedas no SQL Server.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-gerar-intervalo-datas-dinamicas](http://www.fabioms.com.br/?url=sql-server-gerar-intervalo-datas-dinamicas)  
 
-## [36. Remover registros duplicados no SQL Server](/sql-server-remover-registros-duplicados.md)
+## [36. Como Remover registros duplicados no SQL Server](/sql-server-remover-registros-duplicados.md)
 Nesse vídeo apresentamos como remover os registros duplicados da tabela no SQL Server.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-remover-registros-duplicados](http://www.fabioms.com.br/?url=sql-server-remover-registros-duplicados)  
 
@@ -192,3 +192,6 @@ Apresentamos nesse vídeo como instalar um ambiente de análise de dados utiliza
 
 ✅ SQL Server Data Tools
 [https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-ver16](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-ver16&WT.mc_id=DP-MVP-500484)
+## [43. Como Conectar Banco de Dados Access no SQL Server](/sql-server-conectar-banco-dados-access.md)
+Apresentamos nesse vídeo como consultar diretamente o banco de dados Access e disponibilizar para acesso aos dados no SQL Server utilizando o recurso Servidor Vinculado.
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-conectar-banco-dados-access](http://www.fabioms.com.br/?url=sql-server-conectar-banco-dados-access)  

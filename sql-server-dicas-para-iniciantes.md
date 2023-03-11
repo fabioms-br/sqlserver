@@ -11,14 +11,14 @@ Apresentamos 5 dicas importantes para quem está iniciando no desenvolvimendo de
 🔹Renomear colunas e como usá-las (ALIAS).
 
 ▶️ Acesse o vídeo no link abaixo:
-http://www.fabioms.com.br/?url=sql-server-dicas-para-iniciantes
+https://www.fabioms.com.br/?url=sql-server-dicas-para-iniciantes
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
-http://www.fabioms.com.br/?url=youtube-subscribe
+https://www.fabioms.com.br/?url=youtube-subscribe
 
 🎁 Banco de Dados para Estudo SQL:
 Se você quer uma base para estudar liguagem #SQL ou #BusinessIntelligence, elaborar seu curso ou treinamento, aqui você encontrará material. 
 Contribua e cite o projeto para fortalecê-lo!
-http://www.fabioms.com.br/?url=github-estudados
+https://www.fabioms.com.br/?url=github-estudados
 
 #microsoft #dataplatform #dataanalytics #dataanalyst #sql #server #database #dicadofabinho
