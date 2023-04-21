@@ -1,6 +1,6 @@
-## Obter perfil dos dados no SQL Server
+## Como obter perfil dos dados no SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/SYQ0f8xCiqc.png" alt="Obter perfil dos dados no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/SYQ0f8xCiqc.png" alt="Como obter perfil dos dados no SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como obter o perfil dos dados para exploração de uma tabela utilizando o SQL Server, resultado parecido com o recurso existente no Power BI.
 

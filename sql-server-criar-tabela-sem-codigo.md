@@ -1,13 +1,13 @@
-## Como Criar Tabela sem Código no SQL Server
+## #064 Como Criar Tabela sem Código no SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/kMpq7qjHs6k.png" alt="Como Criar Tabela sem Código no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/daily-posts/Slide64.mp4" alt="#064 Como Criar Tabela sem Código no SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como criar facilmente uma tabela SQL Server sem utilizar código na ferramenta SQL Server Management Studio.
 
 Iremos conhecer as técnicas:
 🔹Definir colunas e tipos de dados (COLUMN NAME, DATA TYPE);
 🔹Habilitar colunas para armazenar valores nulos (ALLOW NULLS);
-🔹Definir coluna de índece incremental (COLUMN PROPERTIES, IDENTITY, INCREMENT, SEED);
+🔹Definir coluna de índice incremental (COLUMN PROPERTIES, IDENTITY, INCREMENT, SEED);
 🔹Obter script de criação da tabela existente (SCRIPT TABLE, CREATE)
 
 ▶️ Acesse o vídeo no link abaixo:

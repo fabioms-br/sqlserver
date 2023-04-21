@@ -1,6 +1,6 @@
-## Agrupar valores por intervalo no Power BI e SQL Server
+## Como agrupar valores por intervalo no Power BI e SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/j44t9dW2AMQ.png" alt="Agrupar valores por intervalo no Power BI e SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/j44t9dW2AMQ.png" alt="Como agrupar valores por intervalo no Power BI e SQL Server" title="SQL Server" width="320"/>
 
 Nesse vídeo apresentamos como agrupar os dados por intervalo e por variável categórica utilizando o Power BI e o SQL Server em conjunto.
 

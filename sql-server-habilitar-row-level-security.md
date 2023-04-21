@@ -1,6 +1,6 @@
-## Habilitar Row Level Security no SQL Server
+## Como habilitar Row Level Security no SQL Server
 
-<img src="https://fabioms.com.br/uploads/youtube/PlObUhdF5TQ.png" alt="Habilitar Row Level Security no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br/uploads/youtube/PlObUhdF5TQ.png" alt="Como habilitar Row Level Security no SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como habilitar o nível de segurança de linha (Row Level Security) em registros da tabela do SQL Server.
 

@@ -1,6 +1,6 @@
-## 5 Maneiras de Obter Amostra dos Dados no SQL Server
+## Como obter amostra dos dados no SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/UnHlVtOm19A.png" alt="5 Maneiras de Obter Amostra dos Dados no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/UnHlVtOm19A.png" alt="Como obter amostra dos dados no SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo 5 maneiras de obter amostras dos dados no SQL Server, processo importante na exploração dos dados, podendo ser utilizado em modelos estatísticos. 
 

@@ -19,7 +19,7 @@
 
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-migrar-msaccess](http://www.fabioms.com.br/?url=sql-server-migrar-msaccess)  
 
-## [4. Como Criar Tabela sem Código no SQL Server](/sql-server-criar-tabela-sem-codigo.md)
+## [4. #064 Como Criar Tabela sem Código no SQL Server](/sql-server-criar-tabela-sem-codigo.md)
 Apresentamos nesse vídeo como criar facilmente uma tabela SQL Server sem utilizar código na ferramenta SQL Server Management Studio.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-criar-tabela-sem-codigo](http://www.fabioms.com.br/?url=sql-server-criar-tabela-sem-codigo)  
 
@@ -64,7 +64,7 @@ Pasta "[/inserir-ponto-geografico/](/inserir-ponto-geografico/)"
 Apresentamos nesse vídeo como ler o arquivo XML de nota fiscal eletrônica utilizando o SQL Server.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-ler-nota-fiscal](http://www.fabioms.com.br/?url=sql-server-ler-nota-fiscal)  
 
-## [15. Preencher valores entre datas no SQL Server](/sql-server-preencher-valores-entre-datas.md)
+## [15. Como preencher valores entre datas no SQL Server](/sql-server-preencher-valores-entre-datas.md)
 Apresentamos nesse vídeo como criar uma tabela de datas e preencher os valores salariais entre essas datas vigentes em determinado período.
 
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-preencher-valores-entre-datas](http://www.fabioms.com.br/?url=sql-server-preencher-valores-entre-datas)  
@@ -89,11 +89,11 @@ Nesse vídeo apresentamos como calcular o valor total acumulado de um determinad
 Aprenderemos nesse vídeo como obter dinamicamente as datas mínimas e máximas de todas as tabelas existentes no seu banco de dados SQL Server.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-obter-datas-todas-tabelas](http://www.fabioms.com.br/?url=sql-server-obter-datas-todas-tabelas)  
 Pasta "[/obter-datas-todas-tabelas/](/obter-datas-todas-tabelas/)"
-## [21. Obter perfil dos dados no SQL Server](/sql-server-obter-perfil-dados.md)
+## [21. Como obter perfil dos dados no SQL Server](/sql-server-obter-perfil-dados.md)
 Apresentamos nesse vídeo como obter o perfil dos dados para exploração de uma tabela utilizando o SQL Server, resultado parecido com o recurso existente no Power BI.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-obter-perfil-dados](http://www.fabioms.com.br/?url=sql-server-obter-perfil-dados)  
 
-## [22. 5 Maneiras de Obter Amostra dos Dados no SQL Server](/sql-server-obter-amostras-dados.md)
+## [22. Como obter amostra dos dados no SQL Server](/sql-server-obter-amostras-dados.md)
 Nesse vídeo apresentamos 5 maneiras de obter amostras dos dados no SQL Server, processo importante na exploração dos dados, podendo utilizar em modelos estatísticos. 
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-obter-amostras-dados](http://www.fabioms.com.br/?url=sql-server-obter-amostras-dados)  
 
@@ -120,7 +120,7 @@ Nesse vídeo apresentamos como criar Projeto de Banco de Dados em instância SQL
 
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-criar-projeto-azure-data-studio](http://www.fabioms.com.br/?url=sql-server-criar-projeto-azure-data-studio)  
 
-## [28. Agrupar valores por intervalo no Power BI e SQL Server](/sql-server-powerbi-agrupar-por-categoria-intervalo.md)
+## [28. Como agrupar valores por intervalo no Power BI e SQL Server](/sql-server-powerbi-agrupar-por-categoria-intervalo.md)
 Nesse vídeo apresentamos como agrupar os dados por intervalo e por variável categórica utilizando o Power BI e o SQL Server em conjunto.
 
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-powerbi-agrupar-por-categoria-intervalo](http://www.fabioms.com.br/?url=sql-server-powerbi-agrupar-por-categoria-intervalo)  
@@ -134,7 +134,7 @@ Podemos utilizar o banco de dado SQL Server para calcular média móvel e avalia
 Apresentamos nesse vídeo com reduzir o impacto dos valores extremos em uma tendência central identificando os outliers dos dados utilizando o SQL Server.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-identificar-outlliers](http://www.fabioms.com.br/?url=sql-server-identificar-outlliers)  
 
-## [31. Habilitar Row Level Security no SQL Server](/sql-server-habilitar-row-level-security.md)
+## [31. Como habilitar Row Level Security no SQL Server](/sql-server-habilitar-row-level-security.md)
 Apresentamos nesse vídeo como habilitar o nível de segurança de linha (Row Level Security) em registros da tabela do SQL Server.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-habilitar-row-level-security](http://www.fabioms.com.br/?url=sql-server-habilitar-row-level-security)  
 Pasta "[/row-level-security/](/row-level-security/)"
@@ -171,7 +171,7 @@ Apresentamos nesse vídeo como habilitar a criação de tabela de arquivos e uti
 
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-pesquisa-tabela-arquivos](http://www.fabioms.com.br/?url=sql-server-pesquisa-tabela-arquivos)  
 
-## [40. Identificar Conflitos entre Datas de Escala de Férias no SQL Server](/sql-server-ferias-conflito-entre-datas.md)
+## [40. Como identificar conflitos entre Datas na Escala de Férias no SQL Server](/sql-server-ferias-conflito-entre-datas.md)
 Apresentamos nesse vídeo como identificar o conflito entre as datas de férias dos funcionários e contabilizar a quantidade de dias em que os mesmos estão em conflito.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-ferias-conflito-entre-datas](http://www.fabioms.com.br/?url=sql-server-ferias-conflito-entre-datas)  
 Arquivos do vídeo: "[/SQL-Server-Conflict-Between-Dates/](/SQL-Server-Conflict-Between-Dates/)"
