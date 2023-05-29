@@ -2,7 +2,9 @@
 
 <img src="https://fabioms.com.br/uploads/youtube/Civ234guVro.png" alt="Calcular distância entre dois pontos geográficos no SQL Server" title="SQL Server" width="320"/>
 
-Apresentamos como utilizar a tecnologia de geolocalização do SQL Server para inserir rotas e calcular a distância entre dois pontos geográficos. Identificando por exemplo, a distância do caminhão da rota original, auxiliando no ramo logístico.
+Apresentamos como utilizar a tecnologia de geolocalização do SQL Server para inserir rotas e calcular a distância entre dois pontos geográficos. 
+
+Identificando por exemplo, a distância do caminhão da rota original, auxiliando no ramo logístico.
 
 Iremos conhecer as técnicas:
 🔹Como capturar os pontos de latitude e longitude utilizando uma ferramenta web gratuita (POLYLINE TOOL); 

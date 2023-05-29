@@ -2,9 +2,9 @@
 
 <img src="https://fabioms.com.br/uploads/youtube/lXXn3qouyO4.png" alt="Como Identificar os Outliers dos dados no SQL Server" title="SQL Server" width="320"/>
 
-Apresentamos nesse vídeo como reduzir o impacto dos valores extremos em uma tendência central identificando os outliers dos dados utilizando o SQL Server.
+Apresentamos nesse vídeo como reduzir o impacto dos valores extremos em uma tendência central identificando os outliers dos dados utilizando o SQL Server.  
 
-Iremos conhecer as técnicas:
+Iremos conhecer as técnicas:  
 🔹Expressão de Tabela Comum (CTE);  
 🔹Consultar registros de tabela (SELECT);  
 🔹Calcular Quartil, Mediana, Interquartil e Outliers (PERCENTILE_CONT);  
@@ -12,7 +12,7 @@ Iremos conhecer as técnicas:
 🔹Obter e adicionar novo visual Box Plot e configurar no Power BI;  
 🔹Combinar duas tabelas (CROSS APPLY);  
 🔹Coluna condicional (CASE, WHEN, ELSE);  
-🔹Identificar os outliear dos registros (POWER BI).  
+🔹Identificar os outliear dos registros (POWER BI).    
 
 ▶️ Acesse o vídeo no link abaixo:
 https://www.fabioms.com.br/?url=sql-server-identificar-outlliers

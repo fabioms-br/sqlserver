@@ -4,7 +4,7 @@
 
 [#top10] Apresentamos nesse vídeo como agrupar valores em vários registros para uma mesma coluna, separando-os por vírgula.
 
-Iremos conhecer as técnicas:
+Iremos conhecer as técnicas:  
 🔹Excluir tabela (DROP TABLE);
 🔹Criar tabela (CREATE TABLE);
 🔹Inserir registros em tabela (INSERT INTO, VALUES);

@@ -2,9 +2,9 @@
 
 <img src="https://fabioms.com.br//uploads/youtube/TgRzgSPeTmE.png" alt="Como calcular média móvel e o mercado de ações no SQL Server" title="SQL Server" width="320"/>
 
-Podemos utilizar o banco de dado SQL Server para calcular média móvel e avaliar cotações no mercado de ações utilizando a técnica chamada cruzamento de médias.
+Nesse vídeo apresentamos como utilizar o banco de dado SQL Server para calcular média móvel e avaliar cotações no mercado de ações utilizando a técnica chamada cruzamento de médias.  
 
-Iremos conhecer as técnicas:
+Iremos conhecer as técnicas:  
 🔹Usar o notebook do Azure Data Studio para executar código T-SQL (KERNEL, ATTACH TO, DATABASE);
 🔹Consultar registros da tabela (SELECT, TABLE);
 🔹Calcular valores agregados (AVG);
@@ -13,7 +13,7 @@ Iremos conhecer as técnicas:
 🔹Criar exibição (CREATE VIEW);
 🔹Consumir exibição do SQL Server no Power BI (GET DATA, SQL SERVER);
 🔹Configurar gráfico de linha no Power BI (VALUES, SECONDARY VALUES);
-🔹Identificar os eventos Golden Cross/DeathCross utilizados pelos especialistas da bolsa de valores (POWER BI).
+🔹Identificar os eventos Golden Cross/DeathCross utilizados pelos especialistas da bolsa de valores (POWER BI).  
 
 ▶️Acesse o vídeo no link abaixo:
 https://www.fabioms.com.br/?url=sql-server-calcular-media-movel

@@ -7,16 +7,16 @@
 > **Youtube playlist**: [https://www.youtube.com/playlist?list=PL3CylihEP9UTvZ3MfAYpsyujpGtxYj3Gb](https://www.youtube.com/playlist?list=PL3CylihEP9UTvZ3MfAYpsyujpGtxYj3Gb)  
 
 
-## [1. Conhecer as versões do SQL Server e comparar com o Access](/sql-server-conhecer-versoes.md)
-
+## [1. Comparar banco de dados Access com as versões do SQL Server ](/sql-server-conhecer-versoes.md)
+Apresentamos nesse vídeo um pouco sobre as versões existentes do SQL Server e comparamos com os recursos do Banco de Dados Access e da Planilha Eletrônica do Excel disponibilizados. 
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-conhecer-versoes](http://www.fabioms.com.br/?url=sql-server-conhecer-versoes)  
 
 ## [2. Como instalar o SQL Server e o Management Studio (SSMS)](/sql-server-ssms-instalar.md)
-
+Apresentamos nesse vídeo como instalar facilmente o banco de dados SQL Server e instalar também o SQL Server Management Studio (SSMS)
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-ssms-instalar](http://www.fabioms.com.br/?url=sql-server-ssms-instalar)  
 
-## [3. Como Migrar Banco de dados MS Access para o SQL Server](/sql-server-migrar-msaccess.md)
-
+## [3. Como migrar banco de dados Access para o SQL Server](/sql-server-migrar-msaccess.md)
+Apresentamos nesse vídeo com migrar seus banco de dados Access para o SQL Server
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-migrar-msaccess](http://www.fabioms.com.br/?url=sql-server-migrar-msaccess)  
 
 ## [4. #064 Como Criar Tabela sem Código no SQL Server](/sql-server-criar-tabela-sem-codigo.md)
@@ -27,7 +27,7 @@ Apresentamos nesse vídeo como criar facilmente uma tabela SQL Server sem utiliz
 
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-importar-arquivo-csv](http://www.fabioms.com.br/?url=sql-server-importar-arquivo-csv)  
 
-## [6. Como Importar Arquivo XML no SQL Server](/sql-server-importar-arquivo-xml.md)
+## [6. Como Importar Arquivo XML no SQL Server ](/sql-server-importar-arquivo-xml.md)
 [#top10] Apresentamos nesse vídeo como importar o contéudo de arquivo XML para tabela do SQL Server.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-importar-arquivo-xml](http://www.fabioms.com.br/?url=sql-server-importar-arquivo-xml)  
 
@@ -45,11 +45,11 @@ Apresentamos 5 dicas importantes para quem está iniciando no desenvolvimendo de
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-dicas-para-iniciantes](http://www.fabioms.com.br/?url=sql-server-dicas-para-iniciantes)  
 
 ## [10. Agrupar Linhas em Coluna no SQL Server](/sql-server-agrupar-linhas-em-colunas.md)
-[#top10] Apresentamos nesse vídeo como agrupar valores em vários registros para uma mesma coluna, separando-os por vírgula.
+[#top10] Apresentamos nesse vídeo como agrupar valores em vários registros para uma mesma coluna, separando-os por vírgula
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-agrupar-linhas-em-colunas](http://www.fabioms.com.br/?url=sql-server-agrupar-linhas-em-colunas)  
 Pasta "[/agrupar-linhas-em-coluna/](/agrupar-linhas-em-coluna/)"
-## [11. Contar datas de registros diferentes no SQL Server](/sql-server-contar-dias-entre-datas.md)
-
+## [11. Como contar datas de registros diferentes no SQL Server](/sql-server-contar-dias-entre-datas.md)
+Nesse vídeo apresentamos como contar os dias entre datas de registros diferentes, nesse exemplo, calcular a quantidade de dias entre as alterações ocorridas em versões de documentos
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-contar-dias-entre-datas](http://www.fabioms.com.br/?url=sql-server-contar-dias-entre-datas)  
 
 ## [12. Inserir Ponto Geográfico no SQL Server](/asql-server-inserir-ponto-geografico.md)
@@ -70,7 +70,7 @@ Apresentamos nesse vídeo como criar uma tabela de datas e preencher os valores 
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-preencher-valores-entre-datas](http://www.fabioms.com.br/?url=sql-server-preencher-valores-entre-datas)  
 Pasta "[/preencher-valores-entre-datas/](/preencher-valores-entre-datas/)"
 ## [16. Listar Arquivos de uma pasta no servidor no SQL Server](/sql-server-listar-arquivos-pasta.md)
-
+Como listar arquivos existentes de uma pasta no servidor SQL Server para atualização do seu conteúdo em registros da tabela
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-listar-arquivos-pasta](http://www.fabioms.com.br/?url=sql-server-listar-arquivos-pasta)  
 Pasta "[/listar-arquivos-de-pasta/](/listar-arquivos-de-pasta/)"
 ## [17. Como Criar Tabela Calendário no SQL Server](/sql-server-criar-tabela-calendario.md)
@@ -103,7 +103,7 @@ Apresentamos nesse vídeo como converter valores de colunas em linhas de dados e
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-converter-linhas-em-colunas](http://www.fabioms.com.br/?url=sql-server-converter-linhas-em-colunas)  
 
 ## [24. Calcular distância entre dois pontos geográficos no SQL Server](/sql-server-calcular-distancia-ponto-geografico.md)
-
+como utilizar a tecnologia de geolocalização do SQL Server para inserir rotas e calcular a distância entre dois pontos geográficos
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-calcular-distancia-ponto-geografico](http://www.fabioms.com.br/?url=sql-server-calcular-distancia-ponto-geografico)  
 
 ## [25. Como Aprender SQL no Power BI com Consulta Nativa e SQL Server](/sql-server-aprenda-sql-no-power-bi.md)
@@ -111,7 +111,7 @@ Apresentamos como identificar o códido SQL utilizando a consulta nativa do Micr
 
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-aprenda-sql-no-power-bi](http://www.fabioms.com.br/?url=sql-server-aprenda-sql-no-power-bi)  
 
-## [26. Criar consulta SQL facilmente com o Query Designer no SQL Server](/sql-server-query-designer.md)
+## [26. Criar consulta SQL facilmente com o Query Designer no SQL Server  ](/sql-server-query-designer.md)
 Apresentamos nesse vídeo como utilizar o recurso Query Designer do Microsoft SQL Server Management Studio para criar facilmente consulta SQL de manipulação de dados (DML) no SQL Server.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-query-designer](http://www.fabioms.com.br/?url=sql-server-query-designer)  
 
@@ -126,8 +126,7 @@ Nesse vídeo apresentamos como agrupar os dados por intervalo e por variável ca
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-powerbi-agrupar-por-categoria-intervalo](http://www.fabioms.com.br/?url=sql-server-powerbi-agrupar-por-categoria-intervalo)  
 
 ## [29. Como calcular média móvel e o mercado de ações no SQL Server](/sql-server-calcular-media-movel.md)
-
-Podemos utilizar o banco de dado SQL Server para calcular média móvel e avaliar cotações no mercado de ações utilizando a técnica chamada cruzamento de médias.
+Nesse vídeo apresentamos como utilizar o banco de dado SQL Server para calcular média móvel e avaliar cotações no mercado de ações utilizando a técnica chamada cruzamento de médias.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=sql-server-calcular-media-movel](http://www.fabioms.com.br/?url=sql-server-calcular-media-movel)  
 
 ## [30. Como Identificar os Outliers dos dados no SQL Server](/sql-server-identificar-outlliers.md)

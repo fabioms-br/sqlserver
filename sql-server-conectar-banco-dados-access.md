@@ -4,7 +4,7 @@
 
 Apresentamos nesse vídeo como consultar diretamente o banco de dados Access e disponibilizar para acesso aos dados no SQL Server utilizando o recurso Servidor Vinculado.
 
-🔉Estou utilizando o recurso de audio do Azure Cognitive Services, pois ainda estou me recuperando da cirurgia que fiz recentemente.
+🔉Estou utilizando o recurso de audio do Azure Cognitive Services, pois estava me recuperando de cirurgia que fiz.
 
 😍Mas não se preocupe, essa situação é temporária, espero que goste do conteúdo, desde já agradeço o carinho.
 
