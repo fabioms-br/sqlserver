@@ -1,6 +1,6 @@
-## Gerar Intervalo de Datas Dinâmicas no SQL Server
+## Como obter intervalo de datas dinâmicas no SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/m3SlpzRYLTo.png" alt="Gerar Intervalo de Datas Dinâmicas no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide66.png" alt="Como obter intervalo de datas dinâmicas no SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como gerar intervalo de datas dinâmicas utilizando a última data de atualização dos dados da tabela de cotações de moedas no SQL Server.
 

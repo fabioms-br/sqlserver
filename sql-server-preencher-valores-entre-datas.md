@@ -1,6 +1,6 @@
 ## Como preencher valores entre datas no SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/I9QPuiG5bB4.png" alt="Como preencher valores entre datas no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide21.png" alt="Como preencher valores entre datas no SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como criar uma tabela de datas vigentes e preencher os valores salariais entre essas datas durante determinado período.
 

@@ -1,6 +1,6 @@
-## Listar Arquivos de uma pasta no servidor no SQL Server
+## Como obter arquivos de pasta no servidor SQL Server
 
-<img src="https://fabioms.com.br/uploads/youtube/K4KYVr_BalI.png" alt="Listar Arquivos de uma pasta no servidor no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br/uploads/youtube/Slide22.png" alt="Como obter arquivos de pasta no servidor SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como listar arquivos existentes de uma pasta no servidor SQL Server para atualização do seu conteúdo em registros da tabela.
 

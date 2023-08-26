@@ -1,6 +1,6 @@
-## Ler Arquivo XML de Nota Fiscal Eletrônica no SQL Server
+## Como ler Arquivo XML de Nota Fiscal Eletrônica no SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/fFpRTXniIvc.png" alt="Ler Arquivo XML de Nota Fiscal Eletrônica no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide20.png" alt="Como ler Arquivo XML de Nota Fiscal Eletrônica no SQL Server" title="SQL Server" width="320"/>
 
 Nesse vídeo apresentamos como ler o arquivo em formato XML de nota fiscal eletrônica utilizando o SQL Server.
 

@@ -1,6 +1,6 @@
-## Comparar banco de dados Access com as versões do SQL Server 
+## Comparar o banco de dados Access com o SQL Server 
 
-<img src="https://fabioms.com.br//uploads/youtube/48hFEuGCx-k.png" alt="Comparar banco de dados Access com as versões do SQL Server " title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide2.png" alt="Comparar o banco de dados Access com o SQL Server " title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo um pouco sobre as versões existentes do SQL Server e comparamos com os recursos do Banco de Dados Access e da Planilha Eletrônica do Excel disponibilizados. 
 

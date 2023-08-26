@@ -1,6 +1,6 @@
 ## Como Remover registros duplicados no SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/pNX9DVPyQbM.png" alt="Como Remover registros duplicados no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide69.png" alt="Como Remover registros duplicados no SQL Server" title="SQL Server" width="320"/>
 
 Nesse vídeo apresentamos como remover os registros duplicados da tabela utilizando o Banco de Dados SQL Server.
 

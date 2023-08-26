@@ -1,6 +1,6 @@
-## Inserir Ponto Geográfico no SQL Server
+## Como inserir ponto geográfico no SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/SZCH9Xq63YU.png" alt="Inserir Ponto Geográfico no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide17.png" alt="Como inserir ponto geográfico no SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como armazenar pontos geográficos com a inteligência geo espacial do banco de dados SQL Server.
 

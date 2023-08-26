@@ -1,6 +1,6 @@
-## Instalar Ambiente de Análise de Dados SQL Server com SSAS e SSIS 
+## Como instalar ambiente de análise de dados SQL Server com SSAS e SSIS 
 
-<img src="https://fabioms.com.br//uploads/youtube/f5YNACuBaV4.png" alt="Instalar Ambiente de Análise de Dados SQL Server com SSAS e SSIS " title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide81.png" alt="Como instalar ambiente de análise de dados SQL Server com SSAS e SSIS " title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como instalar um ambiente de análise de dados utilizando o banco de dados SQL Server com os recursos Analysis Services e Integration Services, como também, as ferramentas SQL Server Management Studio e o Visual Studio com as extensões para criar projetos nesse ambiente.
 

@@ -1,6 +1,6 @@
-## #064 Como Criar Tabela sem Código no SQL Server
+## Como Criar Tabela sem Código no SQL Server
 
-<img src="https://fabioms.com.br//uploads/daily-posts/Slide64.mp4" alt="#064 Como Criar Tabela sem Código no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide5.png" alt="Como Criar Tabela sem Código no SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como criar facilmente uma tabela SQL Server sem utilizar código na ferramenta SQL Server Management Studio.
 

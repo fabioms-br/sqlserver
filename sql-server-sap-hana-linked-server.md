@@ -1,10 +1,10 @@
-## Conectar Banco de Dados SAP Hana no SQL Server
+## Como conectar banco de dados SAP Hana no SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/D1yPNTdtu1s.png" alt="Conectar Banco de Dados SAP Hana no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide71.png" alt="Como conectar banco de dados SAP Hana no SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como conectar o banco de dados SAP Hana diretamente associado ao SQL Server utilizando a funcionalidade Linked Server (Servidor Vinculado).
 
-Iremos conhecer:
+Iremos conhecer as técnicas:
 🔹Como instalar driver ODBC do SAP HANA (ODBC, HANA CLIENT);  
 Download em: https://tools.hana.ondemand.com/#hanatools
 🔹Configurar fonte de dados ODBC (ODBC Data Source Administrator. System DSN);  

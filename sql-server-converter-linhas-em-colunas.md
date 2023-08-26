@@ -1,6 +1,6 @@
-## Converter Colunas em Linhas de Arquivo Excel no SQL Server
+## Como converter colunas em linhas de arquivo Excel no SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/_cJZpTPzbSk.png" alt="Converter Colunas em Linhas de Arquivo Excel no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide31.png" alt="Como converter colunas em linhas de arquivo Excel no SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como converter valores de colunas em linhas de dados existentes no arquivo excel utilizando o SQL Server. 
 

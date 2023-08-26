@@ -1,6 +1,6 @@
-## Como Aprender SQL no Power BI com Consulta Nativa e SQL Server
+## Como visualizar código SQL no Power BI com a consulta Nativa
 
-<img src="https://fabioms.com.br/uploads/youtube/5cxU6aeR8yk.png" alt="Como Aprender SQL no Power BI com Consulta Nativa e SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br/uploads/youtube/Slide36.png" alt="Como visualizar código SQL no Power BI com a consulta Nativa" title="SQL Server" width="320"/>
 
 Apresentamos como identificar o código SQL utilizando a consulta nativa do Microsoft Power BI e a ferramenta SQL Server Profiler.
 

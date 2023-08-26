@@ -1,6 +1,6 @@
 ## Como calcular média móvel e o mercado de ações no SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/TgRzgSPeTmE.png" alt="Como calcular média móvel e o mercado de ações no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide54.png" alt="Como calcular média móvel e o mercado de ações no SQL Server" title="SQL Server" width="320"/>
 
 Nesse vídeo apresentamos como utilizar o banco de dado SQL Server para calcular média móvel e avaliar cotações no mercado de ações utilizando a técnica chamada cruzamento de médias.  
 

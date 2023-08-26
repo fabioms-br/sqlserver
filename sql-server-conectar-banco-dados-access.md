@@ -1,6 +1,6 @@
 ## Como Conectar Banco de Dados Access no SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/Y9hh5QQ8Klk.png" alt="Como Conectar Banco de Dados Access no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide108.png" alt="Como Conectar Banco de Dados Access no SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como consultar diretamente o banco de dados Access e disponibilizar para acesso aos dados no SQL Server utilizando o recurso Servidor Vinculado.
 

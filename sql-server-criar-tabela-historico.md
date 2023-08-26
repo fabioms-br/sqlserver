@@ -1,6 +1,6 @@
-## Criar Tabela de Histórico no SQL Server
+## Como criar tabela de histórico no SQL Server
 
-<img src="https://fabioms.com.br/uploads/youtube/A9xT6zONF2c.png" alt="Criar Tabela de Histórico no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br/uploads/youtube/Slide60.png" alt="Como criar tabela de histórico no SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como criar uma tabela de histórico no SQL Server para controlar automaticamente as alterações executadas nos registros dessa tabela.
 

@@ -1,6 +1,6 @@
-## Como Conectar Planilha Excel no SQL Server
+## Como conectar em planilha Excel no SQL Server
 
-<img src="https://fabioms.com.br/uploads/youtube/hWT6IPe6dZw.png" alt="Como Conectar Planilha Excel no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br/uploads/youtube/Slide24.png" alt="Como conectar em planilha Excel no SQL Server" title="SQL Server" width="320"/>
 
 Aprenderemos nesse vídeo como se conectar a um arquivo excel no servidor SQL Server para consultar e maniplular os dados. 
 

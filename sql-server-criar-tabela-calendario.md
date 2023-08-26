@@ -1,6 +1,6 @@
-## Como Criar Tabela Calendário no SQL Server
+## Como criar tabela calendário no SQL Server
 
-<img src="https://fabioms.com.br/uploads/youtube/qLmkzNi2vNQ.png" alt="Como Criar Tabela Calendário no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br/uploads/youtube/Slide23.png" alt="Como criar tabela calendário no SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como criar uma tabela Calendário utilizando o Banco de Dados SQL Server para garantir a integridade de cálculo de inteligência temporal do seus relatórios, pois disponibiliza todos os dias do período entre os registros existentes das tabelas.
 

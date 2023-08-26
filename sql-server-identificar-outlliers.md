@@ -1,6 +1,6 @@
 ## Como Identificar os Outliers dos dados no SQL Server
 
-<img src="https://fabioms.com.br/uploads/youtube/lXXn3qouyO4.png" alt="Como Identificar os Outliers dos dados no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br/uploads/youtube/Slide55.png" alt="Como Identificar os Outliers dos dados no SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como reduzir o impacto dos valores extremos em uma tendência central identificando os outliers dos dados utilizando o SQL Server.  
 

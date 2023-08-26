@@ -1,6 +1,6 @@
-## Contar e Obter Dias Úteis no SQL Server 
+## Como contar e obter dias úteis no SQL Server 
 
-<img src="https://fabioms.com.br//uploads/youtube/cYr-8BYc7xI.png" alt="Contar e Obter Dias Úteis no SQL Server " title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide80.png" alt="Como contar e obter dias úteis no SQL Server " title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como contar a quantidade de dias úteis existentes entre duas datas e obter uma lista dessas datas utilizando o SQL Server.
 

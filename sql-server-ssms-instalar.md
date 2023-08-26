@@ -1,6 +1,6 @@
 ## Como instalar o SQL Server e o Management Studio (SSMS)
 
-<img src="https://fabioms.com.br//uploads/youtube/bsp0dLQbasc.png" alt="Como instalar o SQL Server e o Management Studio (SSMS)" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide3.png" alt="Como instalar o SQL Server e o Management Studio (SSMS)" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como instalar facilmente o banco de dados SQL Server e instalar também o SQL Server Management Studio (SSMS)
 

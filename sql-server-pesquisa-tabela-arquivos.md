@@ -1,6 +1,6 @@
-## Criar Tabela de Arquivos no SQL Server
+## Como criar tabela de arquivos no SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/tnEWu1P9pIM.png" alt="Criar Tabela de Arquivos no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide77.png" alt="Como criar tabela de arquivos no SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como habilitar a criação de tabela de arquivos e utilizar o índice de texto completo para pesquisar por palavras existentes no contéudo de arquivos em formato PDF.
 

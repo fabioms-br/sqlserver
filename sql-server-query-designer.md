@@ -1,6 +1,6 @@
 ## Criar consulta SQL facilmente com o Query Designer no SQL Server  
 
-<img src="https://fabioms.com.br/uploads/youtube/is48F-AUQvE.png" alt="Criar consulta SQL facilmente com o Query Designer no SQL Server  " title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br/uploads/youtube/Slide38.png" alt="Criar consulta SQL facilmente com o Query Designer no SQL Server  " title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como utilizar o recurso Query Designer do Microsoft SQL Server Management Studio para criar facilmente consulta SQL de manipulação de dados (DML) no SQL Server.  
 

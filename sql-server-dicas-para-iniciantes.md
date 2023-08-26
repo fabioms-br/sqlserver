@@ -1,9 +1,10 @@
 ## 5 Dicas de Consulta SQL para iniciantes no SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/TNQy13xrrSk.png" alt="5 Dicas de Consulta SQL para iniciantes no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide14.png" alt="5 Dicas de Consulta SQL para iniciantes no SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos 5 dicas importantes para quem está iniciando no desenvolvimendo de consultas no SQL Server para obter os dados com rapidez e performance esperada.
 
+Iremos conhecer os itens abaixo:
 🔹Selecione apenas as colunas desejadas da tabelas (SELECT, IDENTIFIERS, ALL COLUMNS);
 🔹Selecione apenas os registros desejados da tabela (WHERE, FILTER);
 🔹Agregar valores por agrupamento de coluna (GROUP BY);

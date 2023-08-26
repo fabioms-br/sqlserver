@@ -1,6 +1,6 @@
 ## Como contar datas de registros diferentes no SQL Server
 
-<img src="https://fabioms.com.br/uploads/youtube/F_UFJS0mvSQ.png" alt="Como contar datas de registros diferentes no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br/uploads/youtube/Slide16.png" alt="Como contar datas de registros diferentes no SQL Server" title="SQL Server" width="320"/>
 
 Nesse vídeo apresentamos como contar os dias entre datas de registros diferentes, nesse exemplo, calcular a quantidade de dias entre as alterações ocorridas em versões de documentos.
 

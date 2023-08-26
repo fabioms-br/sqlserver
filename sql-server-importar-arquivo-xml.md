@@ -1,6 +1,6 @@
 ## Como Importar Arquivo XML no SQL Server 
 
-<img src="https://fabioms.com.br//uploads/youtube/JTNaFjgFBWI.png" alt="Como Importar Arquivo XML no SQL Server " title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide7.png" alt="Como Importar Arquivo XML no SQL Server " title="SQL Server" width="320"/>
 
 [#top10] Apresentamos nesse vídeo como importar o contéudo de arquivo XML para tabela do SQL Server.
 

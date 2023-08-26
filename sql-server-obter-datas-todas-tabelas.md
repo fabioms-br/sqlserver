@@ -1,6 +1,6 @@
-## Obter datas de todas as tabelas | Explorar Dados | SQL Server
+## Como obter datas de todas as tabelas no SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/MLherySIOQg.png" alt="Obter datas de todas as tabelas | Explorar Dados | SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide28.png" alt="Como obter datas de todas as tabelas no SQL Server" title="SQL Server" width="320"/>
 
 Aprenderemos nesse vídeo como obter dinamicamente as datas mínimas e máximas de todas as tabelas existentes no seu banco de dados SQL Server.
 

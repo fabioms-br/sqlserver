@@ -1,6 +1,6 @@
-## Como identificar conflitos entre Datas na Escala de Férias no SQL Server
+## Como identificar conflitos entre datas na escala de férias no SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/LanBHaKaa8o.png" alt="Como identificar conflitos entre Datas na Escala de Férias no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide78.png" alt="Como identificar conflitos entre datas na escala de férias no SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como identificar o conflito entre as datas de férias dos funcionários e contabilizar a quantidade de dias em que os mesmos estão em conflito.
 

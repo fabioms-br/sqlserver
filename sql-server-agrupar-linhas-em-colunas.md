@@ -1,6 +1,6 @@
-## Agrupar Linhas em Coluna no SQL Server
+## Como agrupar linhas em coluna no SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/lx_VBIdrChY.png" alt="Agrupar Linhas em Coluna no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide15.png" alt="Como agrupar linhas em coluna no SQL Server" title="SQL Server" width="320"/>
 
 [#top10] Apresentamos nesse vídeo como agrupar valores em vários registros para uma mesma coluna, separando-os por vírgula.
 

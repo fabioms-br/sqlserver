@@ -1,6 +1,6 @@
 ## Calcular distância entre dois pontos geográficos no SQL Server
 
-<img src="https://fabioms.com.br/uploads/youtube/Civ234guVro.png" alt="Calcular distância entre dois pontos geográficos no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br/uploads/youtube/Slide35.png" alt="Calcular distância entre dois pontos geográficos no SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos como utilizar a tecnologia de geolocalização do SQL Server para inserir rotas e calcular a distância entre dois pontos geográficos. 
 

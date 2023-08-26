@@ -1,6 +1,6 @@
-## Como Calcular Total Acumulado no SQL Server
+## Como calcular total acumulado no SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/IqbW_Ov1kJw.png" alt="Como Calcular Total Acumulado no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide25.png" alt="Como calcular total acumulado no SQL Server" title="SQL Server" width="320"/>
 
 Nesse vídeo apresentamos como calcular o valor total acumulado de um determinado período utilizando funções de janela utilizando o banco de dados SQL Server.
 

@@ -1,6 +1,6 @@
 ## Como criar um projeto SQL Server via Docker no Azure Data Studio
 
-<img src="https://fabioms.com.br//uploads/youtube/OgBHmSwH040.png" alt="Como criar um projeto SQL Server via Docker no Azure Data Studio" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide39.png" alt="Como criar um projeto SQL Server via Docker no Azure Data Studio" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como criar Projeto de Banco de Dados em instância SQL Server via Container do Docker utilizando o Azure Data Studio.
 

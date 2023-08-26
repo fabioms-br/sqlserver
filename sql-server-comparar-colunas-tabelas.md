@@ -1,6 +1,6 @@
 ## Como Comparar Colunas de Tabelas no SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/t5St-xTUbLk.png" alt="Como Comparar Colunas de Tabelas no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide62.png" alt="Como Comparar Colunas de Tabelas no SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como comparar a estrutura das tabelas para identificar as diferenças entre as colunas, se as mesmas existem ou se repetem cada tabela.
 

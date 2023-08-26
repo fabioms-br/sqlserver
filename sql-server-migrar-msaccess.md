@@ -1,6 +1,6 @@
 ## Como migrar banco de dados Access para o SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/LBxO05UnFeA.png" alt="Como migrar banco de dados Access para o SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide4.png" alt="Como migrar banco de dados Access para o SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo com migrar seu banco de dados Access para o SQL Server
 

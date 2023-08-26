@@ -1,6 +1,6 @@
-## Pesquisa Semântica de Palavras no SQL Server
+## Como fazer pesquisa semântica de palavras no SQL Server
 
-<img src="https://fabioms.com.br//uploads/youtube/DZ_qi2Qr3fs.png" alt="Pesquisa Semântica de Palavras no SQL Server" title="SQL Server" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide76.png" alt="Como fazer pesquisa semântica de palavras no SQL Server" title="SQL Server" width="320"/>
 
 Apresentamos nesse vídeo como utilizar o banco de dados semântico para pesquisar por palavras relevantes existentes em coluna de texto utilizando o SQL Server.
 
